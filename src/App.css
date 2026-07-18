@@ -52,6 +52,11 @@ button {
   font-size: 20px;
 }
 
+button:hover {
+  background-color: darkgrey;
+  cursor: pointer;
+}
+
 .historyCards {
   background-color:lightgrey;
   display: flex;
