@@ -61,7 +61,7 @@ button:hover {
   background-color:lightgrey;
   display: flex;
   flex-direction: column;
-  align-items: center;
+  
   gap: 20px;
   height: 400px;
   width: 65%;
@@ -74,5 +74,4 @@ button:hover {
 
 .historyCardBox {
   background-color: darkgrey;
-  width: 70%;
 }
